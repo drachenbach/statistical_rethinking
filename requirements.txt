@@ -1,0 +1,5 @@
+jupyterlab
+pyro-ppl
+pandas
+seaborn
+
