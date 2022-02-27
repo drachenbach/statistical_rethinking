@@ -2,4 +2,5 @@ jupyterlab
 pyro-ppl
 pandas
 seaborn
+ipywidgets
 
