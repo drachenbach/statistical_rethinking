@@ -1,6 +1,6 @@
-jupyterlab
-pyro-ppl
-pandas
-seaborn
-ipywidgets
+jupyterlab==3.2.9
+pyro-ppl==1.8.0
+pandas==1.4.1
+seaborn==0.11.2
+ipywidgets==7.6.5
 
